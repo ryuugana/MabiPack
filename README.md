@@ -1,4 +1,4 @@
-# Updated to fix the issue of using packer to create new pack files.
+# Updated to fix packer creation issues
 
 # MabiPaker v2
 
