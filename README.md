@@ -1,5 +1,7 @@
 # Updated to fix packer creation issues
 
+<img width="473" height="285" alt="image" src="https://github.com/user-attachments/assets/57db67d2-700b-498d-8767-3575d87f1427" />
+
 # MabiPaker v2
 
 This application is a tool to import and export client data files (\* .pack) of Nexon's online game "Mabinogi".
