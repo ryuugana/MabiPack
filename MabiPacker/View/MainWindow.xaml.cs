@@ -340,6 +340,14 @@ namespace MabiPacker.View
                     FileShare.None
                 );
             }
+            catch (FileNotFoundException)
+            {
+                // Can't read a file that doesn't exist
+                if (!writable)
+                {
+                    return true;
+                }
+            }
             catch
             {
                 return true;
