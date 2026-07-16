@@ -1,4 +1,4 @@
-# Updated to fix packer creation issues
+# Updated to fix pack creation issues
 
 <img width="473" height="285" alt="image" src="https://github.com/user-attachments/assets/57db67d2-700b-498d-8767-3575d87f1427" />
 
