@@ -1,4 +1,4 @@
-Project has been end. see [this story](https://github.com/logue/MabiPack/issues/9).
+# Updated to fix the issue of using packer to create new pack files.
 
 # MabiPaker v2
 
